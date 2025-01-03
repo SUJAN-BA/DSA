@@ -38,3 +38,4 @@ public class hashmap {
         System.out.println("after remove:"+map);
     }
 }
+
